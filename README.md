@@ -4,4 +4,4 @@
 ## bollettino del 28/03/2020
 Notebook contenente l'analisi dei dati relativi alla diffusione del Coronavirus in Italia forniti dalla Protezione Civile 
 
-###Picco stimato entro il 12/4
+Picco dei contagi stimato entro il 12/4
