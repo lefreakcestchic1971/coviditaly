@@ -2,7 +2,7 @@
 
 # coviditaly
 ## bollettino del 02/04/2020
-###Notebook contenente l'analisi dei dati relativi alla diffusione del Coronavirus in Italia forniti dalla Protezione Civile 
+Notebook contenente l'analisi dei dati relativi alla diffusione del Coronavirus in Italia forniti dalla Protezione Civile 
 
 Il numero di attualmente positivi rapportato al numero di test eseguiti sembra aver raggiunto il picco il 24/3.
 
