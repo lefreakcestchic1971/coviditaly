@@ -1,4 +1,4 @@
-![DataScienceSeed Logo](http://www.datascienceseed.com/wp-content/uploads/2018/02/dsst.jpgbilizzazione)
+![DataScienceSeed Logo](http://www.datascienceseed.com/wp-content/uploads/2018/02/dsst.jpg)
 
 # Coviditaly Notebook
 by Andrea Boero
