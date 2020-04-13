@@ -15,24 +15,24 @@ Ipotizziamo allora che tale grandezza, ossia la media a 5 giorni del rapporto tr
 Se così fosse la percentuale di contagiati in Veneto oggi sarebbe del 4.6%, in lento calo dopo un picco registrato a marzo.
 Applicando lo stesso ragionamento per tutte le regioni e per la totalità della popolazione italiana le percentuali di contagio nelle varie regioni potrebbero essere dell'ordine di quelle espresse di seguito (tralasciando le regioni che oggi hanno eseguito pochi test):
 
-Basilicata               2%
-Calabria                 2%
-Campania                 5%
-Emilia Romagna           10%
-Friuli Venezia Giulia    5%
-Lazio                    5%
-Liguria                  10%
-Lombardia                15%
-Marche                   10%
-Trentino Alto Adige      8%
-Piemonte                 15%
-Puglia                   5%
-Sardegna                 5%
-Sicilia                  3%
-Toscana                  5%
-Umbria                   1%
-Valle d'Aosta            15%
-Veneto                   5%
+Basilicata               2%,
+Calabria                 2%,
+Campania                 5%,
+Emilia Romagna           10%,
+Friuli Venezia Giulia    5%,
+Lazio                    5%,
+Liguria                  10%,
+Lombardia                15%,
+Marche                   10%,
+Trentino Alto Adige      8%,
+Piemonte                 15%,
+Puglia                   5%,
+Sardegna                 5%,
+Sicilia                  3%,
+Toscana                  5%,
+Umbria                   1%,
+Valle d'Aosta            15%,
+Veneto                   5%,
 Italia                   8%
 
 Il dato italiano (8% in costante lento calo) è quindi in linea con le ipotesi citate precedentemente.
