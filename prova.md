@@ -8,5 +8,7 @@ In questo quadro così confuso ci ha pensato lo [studio dell'Imperial College Lo
 
 L'esperimento, purtroppo isolato, di [Vò Euganeo](https://mattinopadova.gelocal.it/regione/2020/03/07/news/coronavirus-i-risultati-dei-2778-tamponi-a-vo-positivo-il-2-5-1.38563019) ha rilevato che su 2778 tamponi eseguiti a tappeto sulla popolazione del comune, in massima parte eseguiti tra il 25 ed il 29 febbraio, il 2,5% è risultato positivo.
 
-In tutto il Veneto, fino al giorno 29/2, sono stati totalmente eseguiti 8659 test (tolti quelli di Vò si tratta di test mirati e non a tappeto) e la percentuale di attualmente positivi (media mobile a 5 giorni) viene confermata al 2.5%.
+In tutto il Veneto, fino al giorno 29/2, sono stati totalmente eseguiti 8659 test (tolti quelli di Vò si tratta presumibilmente di test mirati e non a tappeto) e la media mobile a 5 giorni della percentuale di persone risultate positive a tali test è stata proprio del 2.5%. I dati possono essere consultati [qui](https://github.com/lefreakcestchic1971/coviditaly/blob/master/CovidItaly.ipynb).
+
+Ipotizziamo allora che tale grandezza, ossia la media a 5 giorni del rapporto tra i valori giornalieri dei nuovi positivi e dei test effettuati possa essere utilizzata come stima della percentuale di contagiati totali di una popolazione.
 
