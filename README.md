@@ -1,6 +1,6 @@
 ![DataScienceSeed Logo](http://www.datascienceseed.com/wp-content/uploads/2018/02/dsst.jpg)
 
-# Coviditaly Notebook
+# Covid-19 Italy Notebook
 by Andrea Boero
 ## bollettino del 20/04/2020
 Notebook contenente l'analisi dei dati relativi alla diffusione del Coronavirus in Italia forniti dalla Protezione Civile 
