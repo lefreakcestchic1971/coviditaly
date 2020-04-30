@@ -4,9 +4,11 @@
 by Andrea Boero
 ## bollettino del 27/04/2020
 Notebook contenente l'analisi dei dati relativi alla diffusione del Coronavirus in Italia forniti dalla Protezione Civile 
+
 Notebook containing data analysis inherent covid-19 spread in Italy, data provided by Protezione Civile.
 
 Il numero di tamponi eseguiti determina il numero di contagiati conclamati, quindi è al rapporto tra contagiati e test che si deve guardare (positivi relativi).
+
 The number of tests defines the absolute number of infected, so the most useful measure is the ratio beteween number of infected and number of tests.
 
 In base a questo confronto il picco in Italia sembra stato globalmente superato il 24/3. 
