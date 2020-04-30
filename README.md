@@ -2,7 +2,7 @@
 
 # Covid-19 Italy Notebook
 by Andrea Boero
-## bollettino del 20/04/2020
+## bollettino del 27/04/2020
 Notebook contenente l'analisi dei dati relativi alla diffusione del Coronavirus in Italia forniti dalla Protezione Civile 
 
 Il numero di tamponi eseguiti determina il numero di contagiati conclamati, quindi è al rapporto tra contagiati e test che si deve guardare (positivi relativi).
