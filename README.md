@@ -2,7 +2,7 @@
 
 # Covid-19 Italy Notebook
 by Andrea Boero
-## bollettino del 10/05/2020
+## bollettino del 15/05/2020
 Notebook contenente l'analisi dei dati relativi alla diffusione del Coronavirus in Italia forniti dalla Protezione Civile 
 
 Questo è il primo notebook dall'inizio della Fase 2.
@@ -11,7 +11,7 @@ Il numero di tamponi eseguiti determina il numero di contagiati conclamati, quin
 
 In base a questo confronto il picco in Italia sembra stato globalmente superato il 24/3. 
 
-Molise e Lombardia oggi presentavano un rapporto contagi/tamponi intorno al 4%. La percentuale italiana è circa del 1.5%. 
+La Liguria è stata oggi la regione a massimo rapporto contagi/tamponi. La percentuale italiana è circa del 1.5%. 
 
 Discesa non marcata ma costante ovunque, occhio alla Lombardia dove si è verificata una piccola inversione di tendenza
 
@@ -31,7 +31,7 @@ The number of tests defines the absolute number of infected, so the most useful 
 
 According to this comparation Italy has experimented its peak on 24th of march.
 
-Molise and Lombardy today show a ratio of 4%. This could be taken as an estimate of daily total population infection rate that, in Italy, is about 1.5%. 
+Liguria today showed the highest ratio of 3.7%. This could be taken as an estimate of daily total population infection rate that, in Italy, is about 1.5%. 
 
 Lombardy is the region with the maximum ratio between deaths and infections. Liguria, Marche and Emilia Romagna are above the average, too.
 
